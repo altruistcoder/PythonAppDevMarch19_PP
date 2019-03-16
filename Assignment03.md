@@ -1,4 +1,4 @@
-Assignment (Lecture 03)
+Assignment (Lecture-3)
 
 0. Complete Assignment 1 and 2.
 
